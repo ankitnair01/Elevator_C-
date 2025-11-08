@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GY5MaY/8aA8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\ankuProj\\Elevator\\Elevator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
